@@ -1,0 +1,146 @@
+[
+  {
+    "id": "scenario-001",
+    "exposure": 16596,
+    "signal": 0.914,
+    "urgency": 3
+  },
+  {
+    "id": "scenario-002",
+    "exposure": 21147,
+    "signal": 0.448,
+    "urgency": 9
+  },
+  {
+    "id": "scenario-003",
+    "exposure": 41344,
+    "signal": 0.338,
+    "urgency": 5
+  },
+  {
+    "id": "scenario-004",
+    "exposure": 82261,
+    "signal": 0.903,
+    "urgency": 6
+  },
+  {
+    "id": "scenario-005",
+    "exposure": 27120,
+    "signal": 0.581,
+    "urgency": 7
+  },
+  {
+    "id": "scenario-006",
+    "exposure": 82998,
+    "signal": 0.609,
+    "urgency": 1
+  },
+  {
+    "id": "scenario-007",
+    "exposure": 28692,
+    "signal": 0.139,
+    "urgency": 1
+  },
+  {
+    "id": "scenario-008",
+    "exposure": 35805,
+    "signal": 0.515,
+    "urgency": 2
+  },
+  {
+    "id": "scenario-009",
+    "exposure": 79096,
+    "signal": 0.433,
+    "urgency": 1
+  },
+  {
+    "id": "scenario-010",
+    "exposure": 37210,
+    "signal": 0.675,
+    "urgency": 9
+  },
+  {
+    "id": "scenario-011",
+    "exposure": 81142,
+    "signal": 0.536,
+    "urgency": 4
+  },
+  {
+    "id": "scenario-012",
+    "exposure": 86085,
+    "signal": 0.525,
+    "urgency": 8
+  },
+  {
+    "id": "scenario-013",
+    "exposure": 19912,
+    "signal": 0.908,
+    "urgency": 3
+  },
+  {
+    "id": "scenario-014",
+    "exposure": 49385,
+    "signal": 0.516,
+    "urgency": 1
+  },
+  {
+    "id": "scenario-015",
+    "exposure": 9343,
+    "signal": 0.241,
+    "urgency": 5
+  },
+  {
+    "id": "scenario-016",
+    "exposure": 13230,
+    "signal": 0.746,
+    "urgency": 4
+  },
+  {
+    "id": "scenario-017",
+    "exposure": 88338,
+    "signal": 0.73,
+    "urgency": 4
+  },
+  {
+    "id": "scenario-018",
+    "exposure": 33339,
+    "signal": 0.601,
+    "urgency": 8
+  },
+  {
+    "id": "scenario-019",
+    "exposure": 24540,
+    "signal": 0.906,
+    "urgency": 7
+  },
+  {
+    "id": "scenario-020",
+    "exposure": 30873,
+    "signal": 0.751,
+    "urgency": 9
+  },
+  {
+    "id": "scenario-021",
+    "exposure": 45497,
+    "signal": 0.935,
+    "urgency": 5
+  },
+  {
+    "id": "scenario-022",
+    "exposure": 25074,
+    "signal": 0.732,
+    "urgency": 8
+  },
+  {
+    "id": "scenario-023",
+    "exposure": 71743,
+    "signal": 0.354,
+    "urgency": 1
+  },
+  {
+    "id": "scenario-024",
+    "exposure": 16121,
+    "signal": 0.56,
+    "urgency": 3
+  }
+]
